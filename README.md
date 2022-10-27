@@ -10,7 +10,6 @@ Projects were given and graded by Zuri and I2G internship team
 
  - [Zuri team](https://www.youtube.com/c/TheZuriTeam)
  - [Awesome CSS learning website](https://web.dev/learn/css/grid/)
- - 
 
 
 ## Authors
